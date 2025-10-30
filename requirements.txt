@@ -1,0 +1,11 @@
+streamlit
+tensorflow==2.15.0
+keras
+deepface
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
